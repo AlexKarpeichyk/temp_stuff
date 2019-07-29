@@ -1,0 +1,3 @@
+inorder (x:y:t) 
+	| sort (x:y:t) == (x:y:t) = True
+	| sort (x:y:t) != (x:y:t) = False

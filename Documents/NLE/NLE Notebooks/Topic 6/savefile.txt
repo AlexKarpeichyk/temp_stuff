@@ -1,0 +1,1596 @@
+--- Sentence ---
+However, the plot was predictable.
+Opinions on plot
+['the']
+--- Sentence ---
+The characters talk about the relative intelligence of the other characters or how the other characters can't possibly know what is going on.
+Opinions on characters
+['The', 'the', 'other', 'or', 'the', 'other']
+--- Sentence ---
+I'm still not sure what Jody Foster's character brings to the plot.  
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+Furthermore, the plot is so predictable that it made the movie drag.
+Opinions on plot
+['the']
+--- Sentence ---
+& then Owen Wilson's character fall in love with Rachel's McAdams character and well, that's the usual predictable romance plot.
+Opinions on plot
+['the', 'usual', 'predictable', 'romance']
+--- Sentence ---
+There are only two Black characters, both sentimentally loyal to their Southernness and their masters; otherwise, slavery is beside the point.
+Opinions on characters
+['two', 'Black', ',', 'both', ';']
+--- Sentence ---
+All the greater the disappointment then, when less than half way through, the story becomes something utterly unrecognizable from the original, several key characters are lumped together most confusingly, and others lose all their complex charm.
+Opinions on characters
+['several', 'key']
+--- Sentence ---
+At some parts it was even hard to hear what the characters were saying because of the music.
+Opinions on characters
+['the']
+--- Sentence ---
+This movie didn't do anything for me...Didn't care for the characters or the plot.  
+Opinions on plot
+['the']
+--- Sentence ---
+This movie didn't do anything for me...Didn't care for the characters or the plot.  
+Opinions on characters
+['the', 'or', 'plot']
+--- Sentence ---
+I felt that within all the time it ran, we didn't really get a good understanding of the inner being of the main characters; seemed to remain in shallow waters all along.
+Opinions on characters
+['the', 'main']
+--- Sentence ---
+The bantering that occurs between the two is generally amusing; unfortunately thanks to the inept direction and camera work, the focus for these scenes seems to be more on Roberts (strutting about in short leather skirts and noisy, five-inched-heeled mules) than on the sometimes-interesting personality dynamics that seemingly exists between the two characters.  
+Opinions on characters
+['the', 'two']
+--- Sentence ---
+Not enough weirdness, tried too much for the plot.
+Opinions on plot
+['the']
+--- Sentence ---
+Given my dislike of how the Japanese culture was handled in this film, it left me finding the plot irrelevant.  
+Opinions on plot
+['the']
+--- Sentence ---
+The plot was OK but it would have been much better if they had either stuck to a more authentic representation of Japanese culture or kept the story in the states.
+
+
+
+
+Opinions on plot
+['The']
+--- Sentence ---
+The performances are thin and uneven, the plot is inconsistent, and the dialogue sounds like it was pulled from fortune cookies made by the cast of Friends.  
+Opinions on plot
+['the']
+--- Sentence ---
+The performances are thin and uneven, the plot is inconsistent, and the dialogue sounds like it was pulled from fortune cookies made by the cast of Friends.  
+Opinions on dialogue
+['the']
+--- Sentence ---
+The plot is uninvolving and incoherent, the cinematography is cramped and completely lacking in style, the music is weak during a time that spawned so many memorable soundtracks and the direction lacks any focus whatsoever.
+Opinions on plot
+['The']
+--- Sentence ---
+The plot is uninvolving and incoherent, the cinematography is cramped and completely lacking in style, the music is weak during a time that spawned so many memorable soundtracks and the direction lacks any focus whatsoever.
+Opinions on cinematography
+['the']
+--- Sentence ---
+Her dialogue is kept short and simple, and when she does have more than 3 lines at once, the complete lack of feeling, expression & emotion in her voice makes you consider turning off the movie and doing something worthwhile, like cleaning out the fridge or picking at your hang-nails.  
+Opinions on dialogue
+['Her']
+--- Sentence ---
+The few flashback scenes where the viewer actually sees the two characters practicing their on-stage roles under DeLuise's fevered direction come across as uncomfortably voyeuristic.  
+Opinions on characters
+['the', 'two']
+--- Sentence ---
+Other reviewers have commented on the bad, infomercial level acting of the two lead characters.  
+Opinions on characters
+['the', 'two', 'lead']
+--- Sentence ---
+"Con Express" has lots of action in it, which is great because this hides the poor writing and uninteresting characters.
+Opinions on characters
+['uninteresting']
+--- Sentence ---
+None of the characters are believable in the roles they are portraying.  
+Opinions on characters
+['the']
+--- Sentence ---
+Every thing in this movie seems forced and there is no chemistry between the characters
+
+Opinions on characters
+['the', '\n']
+--- Sentence ---
+The dialogue is at a much lower volume than the music and sound effects, making it impossible to view without constantly tinkering.  
+Opinions on dialogue
+['The']
+--- Sentence ---
+Although this movie wanted to be in the same race and quality of the movie CLUE, it fails to realize that the plot and characters are incredibly riculous and not funny ha ha but funny stupid.
+Opinions on plot
+['the', 'and', 'characters']
+--- Sentence ---
+It just added to the disbelief of the characters (stay Goldblum), the storyline, and the ultimate letdown of this much anticipated sequel.
+Opinions on characters
+['the', '(', 'stay', ')', ',', 'storyline']
+--- Sentence ---
+Having mentioned it's good points I have to say I was enormously disappointed with the dialogue and some of the story adaptation to screen.
+Opinions on dialogue
+['the', 'and', 'some']
+--- Sentence ---
+For the most part the bad dialogue and some of the terrible acting in parts were just too painful to sit through.
+Opinions on dialogue
+['the', 'bad', 'and']
+--- Sentence ---
+All the characters were severely and tragically 2-dimensional with none of the depth you get from reading the graphic novel and very little attention was paid to developing better dialogue suitable for a big screen experience.
+Opinions on characters
+['All', 'the']
+--- Sentence ---
+All the characters were severely and tragically 2-dimensional with none of the depth you get from reading the graphic novel and very little attention was paid to developing better dialogue suitable for a big screen experience.
+Opinions on dialogue
+['better', 'suitable']
+--- Sentence ---
+Purists and rabid fans of the graphic novel may be capable of somehow finding a way to look past all the terrible acting and awful dialogue that is rife throughout the film.
+Opinions on dialogue
+['all', 'the', 'terrible', 'acting', 'rife']
+--- Sentence ---
+Some of my favorite actors are wasted, either by being given cliched dialogue, over acting, or being put there merely for their brand name with no script to support their presence.
+Opinions on dialogue
+['cliched', ',']
+--- Sentence ---
+The movie gets boring rather fast as Bette and Woody are the only ones we get to see as there are very few supporting characters.
+Opinions on characters
+['few', 'supporting']
+--- Sentence ---
+The characters are presented in a confusing fashion with only snippets and glimpses into each person's life.  
+Opinions on characters
+['The']
+--- Sentence ---
+These disjointed glimpses don't give the viewer time or depth to care what happens to any of the spoiled rotten characters.  
+Opinions on characters
+['the', 'spoiled', 'rotten']
+--- Sentence ---
+I usually enjoy movies with this breaking-away-from-boredom type of plot for example...
+Opinions on plot
+['for']
+--- Sentence ---
+The acting is horrible, the plot is horrible, the filming is horrible...  Everything is horrible!  I was hopeful because of Snipes, which is why I rented it despite not ever seeing the movie anywhere before in the theaters.  
+Opinions on plot
+['the']
+--- Sentence ---
+The sets are quite amazing, and the cinematography is absolutely beautiful.
+
+
+Opinions on cinematography
+['the']
+--- Sentence ---
+The characters are thin at best, and stock at worst.
+
+
+Opinions on characters
+['The']
+--- Sentence ---
+It means nothing to the plot, and is the ultimate contrivance.)
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+   Not only was the dialogue of the film trite and the plot much like a pornographic after school special, but the movie unfortunately reinforces a worldview which anti-homosexual groups been touting for years--If you're thinking turning your female frienship into a relationship, don't.  
+Opinions on plot
+['the']
+--- Sentence ---
+   Not only was the dialogue of the film trite and the plot much like a pornographic after school special, but the movie unfortunately reinforces a worldview which anti-homosexual groups been touting for years--If you're thinking turning your female frienship into a relationship, don't.  
+Opinions on dialogue
+['the', 'of']
+--- Sentence ---
+Loud popping sounds completely cover up the dialogue in an entire scene.
+Opinions on dialogue
+['the']
+--- Sentence ---
+The plot to this movie or so called sequal is horrible.  
+Opinions on plot
+['The', 'to']
+--- Sentence ---
+Basically the plot is Tucker runs around dodging bullets and calling everyone a name.
+Opinions on plot
+['the']
+--- Sentence ---
+If this movie had been placed in the correct time period with correct costumes, locations, characters, and details from the story,then EVERYONE would love it.
+Opinions on characters
+[',', 'and', 'details']
+--- Sentence ---
+Can't remember when I've seen a film with more depraved and pathetic characters than this.   
+Opinions on characters
+['more', 'depraved', 'than']
+--- Sentence ---
+The film is not interested in adding new elements to the plot to keep things at least appearing fresh.
+Opinions on plot
+['the', 'keep']
+--- Sentence ---
+The problem is, the movie's plot is a slow-moving, wasted opportunity.
+
+
+Opinions on plot
+['movie']
+--- Sentence ---
+The first is the plot itself.
+Opinions on plot
+['the', 'itself']
+--- Sentence ---
+The other more tragic flaw, since it is a movie about dance, is the cinematography.
+Opinions on cinematography
+['the']
+--- Sentence ---
+While it's certainly not the worst cinematography ever, (check out "the Limey" next time you want a headache.)
+Opinions on cinematography
+['the', 'worst', 'ever', ',']
+--- Sentence ---
+The plot is a by-the-book "believe in your dreams" story with really lame dialog, but its development is intercut with extended dancing sequences that are so long and frequent that at times it felt like I was watching an abstract silent film.  
+Opinions on plot
+['The']
+--- Sentence ---
+I can't even remember the names of the characters, but all in all, I have to admit that it was kind of neat.
+
+
+Opinions on characters
+['the']
+--- Sentence ---
+The characters are unlikeable except for Charity's two friends.
+Opinions on characters
+['The']
+--- Sentence ---
+Too bad the members of this band are minor characters.  
+Opinions on characters
+['minor']
+--- Sentence ---
+Some of my favorite actors are wasted, either by being given cliched dialogue, over acting, or being put there merely for their brand name with no script to support their presence.
+Opinions on dialogue
+['cliched', ',']
+--- Sentence ---
+While the filme attempted to contemplate serious and deep issues of love, allegiance and so on, it succeeded in only boring the tears out this viewer with the monotonous monologues of the characters done as long lengths of naration.
+Opinions on characters
+['the']
+--- Sentence ---
+In one part, the plot lost some continuity and needed reviewing to get to grips with what had happened.
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+The plot for the movie is actually surprisingly straightforward once you cut away all the filler, but that's the biggest problem.
+Opinions on plot
+['The', 'for']
+--- Sentence ---
+They really need to cast people who actually fit the roles and have talent for portraying the characters.  
+Opinions on characters
+['the']
+--- Sentence ---
+I was so happy to see Marvel characters getting their own movies, but after seeing what Hollywood does to them, I would rather see Marvel's chracters go back into hiding.  
+Opinions on characters
+['Marvel']
+--- Sentence ---
+I can care about the characters, but none of these people did anything for me, so the movie's dead in the water.  
+Opinions on characters
+['the']
+--- Sentence ---
+For good counter examples watch "Trainspotting", which has drug-addict characters with enough humor and life to be likable and interesting and "Bubba Ho-Tep", a film which displays the plight of the lonely elderly 50 times better than this film despite being a silly horror-comedy with a mummy in a cowboy outfit in it.  
+Opinions on characters
+['addict']
+--- Sentence ---
+The trouble is, this movie hasn't got any plot to distract you from how redundant the visual style is.  
+Opinions on plot
+['any']
+--- Sentence ---
+There's nothing inherently wrong with any of his tactics, but they're hopelessly driven in to the ground, as we see fast-motion a thousand times, quick-cut montages a million times and plenty of wonky camera-attached-to-the-actor junk, and they are, again, impossible not to notice cause the plot sure ain't drawing me in.  
+Opinions on plot
+['the']
+--- Sentence ---
+It became evident that no, Aronofsky wasn't going to introduce any new visual tricks and no, these characters weren't going to get any more interesting.  
+Opinions on characters
+['these']
+--- Sentence ---
+I looked at the timer continuously for about the last 40 minutes of the film, and was so uninvolved that the supposedly horrifying conclusion where all the characters really get it bad was utterly ineffective.  
+Opinions on characters
+['all', 'the']
+--- Sentence ---
+It was kind of uplifting, really:  Now that these tedious characters have finally hit rock bottom I can go do something else.  
+Opinions on characters
+['these', 'tedious']
+--- Sentence ---
+However, the plot and message of this film revel in hopelessness, and debase every aspect of lower income, urban people.
+Opinions on plot
+['the', 'and', 'message', 'of']
+--- Sentence ---
+So this "realistic" show has characters with clean, fluffy hair and pretty teeth spew garbage langauge constantly -- and sucker viewers and reviewers buy this as "realistic"!!!
+Opinions on characters
+['with']
+--- Sentence ---
+The quiet scenes with Kong were welcome additions, they actually made him into a character...something that can't be said for any of the human characters.
+
+
+Opinions on characters
+['the', 'human']
+--- Sentence ---
+Pollack takes all that intricately woven little Grisham-plot and barfs big ugly chunks of it up on the screen.
+Opinions on plot
+['Grisham', '-', 'and', 'barfs']
+--- Sentence ---
+I didn't even mind the obvious holes in the plot, such as...why do these characters not have credit cards or cell phones?
+Opinions on plot
+['the', ',', 'as']
+--- Sentence ---
+I didn't even mind the obvious holes in the plot, such as...why do these characters not have credit cards or cell phones?
+Opinions on characters
+['these']
+--- Sentence ---
+The main plot is very thin (a CIA agent is ordered to kill an oil prince, gets caught and then warns the prince (why?)) and therefore some elements were added to make the movie more interesting.
+Opinions on plot
+['The', 'main']
+--- Sentence ---
+However, the plot and message of this film revel in hopelessness, and debase every aspect of lower income, urban people.
+Opinions on plot
+['the', 'and', 'message', 'of']
+--- Sentence ---
+serious issues are reduced to a series of ham-fisted archetypes straight out of central casting. and they're ALL here: the homey black grandparents, the nation of islam convert, the socially conscious mother whose son is starting to go down caine's road... all characters that might fare better in a different film that treats these issues with more subtlety and depth.
+
+
+Opinions on characters
+['all', 'fare']
+--- Sentence ---
+it clearly took a lot of inspiration from menace 2 society, boyz n tha hood, etc., but its characters actually feel tormented, instead of just having lots of scenes written FOR them to show their torment. rather than just running through a laundry list of problems, one-by-one, scene-by-scene
+Opinions on characters
+['its']
+--- Sentence ---
+The props and things were very nice, the actors didn't gel well with each other or connect with their characters and the singing was mediocre ( definitely no Tyler Perry quality on that note) but the messages were good just seemed a little unrealistic and too drawn out.  
+Opinions on characters
+['their', 'and']
+--- Sentence ---
+There were other times when I thought the actions of some characters were weird or forced.
+
+
+Opinions on characters
+['some']
+--- Sentence ---
+The main weakness of this film is that it gives us virtually no reason to care about any of the characters.  
+Opinions on characters
+['the']
+--- Sentence ---
+The acting is uniformly flat, with the characters little more than wafer-thin stereotypes, and even the action scenes come across as surprisingly mundane and second-rate given the Singleton pedigree in this area.  
+Opinions on characters
+['the', 'more']
+--- Sentence ---
+With their childest voices, they shouldn't be used as a main plot of the story
+
+Opinions on plot
+['a', 'main', 'of']
+--- Sentence ---
+But the most ridiculous thing is not only do the characters not pay attention to the dogs, who sensed something was not right (time to get myself a dog), but the fact that all the sophisticated radar equipment cannot detect the aliens entering our atmosphere - but a BABY MONITOR can?!
+Opinions on characters
+['the']
+--- Sentence ---
+A narrative like Gettysburg that goes back and forth between a few central characters in a logical sequence without all the ham fisted attempts a proselytizing and all the noblesse oblige.
+
+
+Opinions on characters
+['a', 'few', 'central', 'in']
+--- Sentence ---
+As far as the movie is concerned, the plot is unoriginal and not particularly engaging.
+Opinions on plot
+['the']
+--- Sentence ---
+It is a very dialogue-heavy film and the dialogue is not well-written enough to carry it off.
+
+Opinions on dialogue
+['the']
+--- Sentence ---
+The plot is that old but reliable one about a man posing as a prisoner so he can go "undercover" and solve a crime.
+Opinions on plot
+['The']
+--- Sentence ---
+With the very subtle hints of Method Man being smarter, nothing could separate the equality of these two characters.  
+Opinions on characters
+['these', 'two']
+--- Sentence ---
+I was watching the same two characters fight through the same two challenges in this film.
+Opinions on characters
+['the', 'same', 'two']
+--- Sentence ---
+What Dylan did to counter the similarity between Redman/Method Man was bring in obscure secondary characters that added nothing to the flimsy plot or helped us feel emotion for our two main characters.  
+Opinions on plot
+['the', 'flimsy', 'or', 'helped']
+--- Sentence ---
+What Dylan did to counter the similarity between Redman/Method Man was bring in obscure secondary characters that added nothing to the flimsy plot or helped us feel emotion for our two main characters.  
+Opinions on characters
+['obscure', 'secondary', 'added', 'our', 'two', 'main']
+--- Sentence ---
+If he would have tightened the script, created unique and "cult-like" characters, and eliminated the racism, he may have had the quintessential "weed" film in Hollywood.  
+Opinions on characters
+['"', 'cult', ',']
+--- Sentence ---
+He discovers a new talent (artist Christina Milian) and works his way through an assortment of characters that are more types and cliches than real characters.  
+
+
+Opinions on characters
+['are', 'real']
+--- Sentence ---
+The dialogue seems forced, funnier on the script than on the screen and most scenes feel posed and sterile.  
+Opinions on dialogue
+['The']
+--- Sentence ---
+Besides, this is not the kind of movie that you really need their dialogue to understand or enjoy it.  
+
+
+Opinions on dialogue
+['their']
+--- Sentence ---
+I'm not going to review the plot because it's been done by several reviewers already.  
+Opinions on plot
+['the', 'done']
+--- Sentence ---
+Instead we have additions of Colonel Hart's unexplained behavior, an mass tunnel escape plot, sabotage and the German Commandant's attempt to befriend the American lawyer as superfluous baggage.
+
+
+Opinions on plot
+['an', 'escape', ',', 'sabotage']
+--- Sentence ---
+There are a few scenes where the characters are running around  without any obvious aim.
+Opinions on characters
+['the']
+--- Sentence ---
+This was such a contrived movie that had a simple plot that went nowhere.
+Opinions on plot
+['a', 'simple', 'went']
+--- Sentence ---
+The sound is murky and undecipherable, the acting is strictly amateur hour, the characters are paper-thin with no distinction or purpose, the story is non-existent, the dialogue is a completely worthless bore, there's nothing remotely scary, and the special effects (including a couple of computer effects that look like they were made on a Commodore 64) are laughable.
+Opinions on characters
+['the']
+--- Sentence ---
+The sound is murky and undecipherable, the acting is strictly amateur hour, the characters are paper-thin with no distinction or purpose, the story is non-existent, the dialogue is a completely worthless bore, there's nothing remotely scary, and the special effects (including a couple of computer effects that look like they were made on a Commodore 64) are laughable.
+Opinions on dialogue
+['the']
+--- Sentence ---
+Throw in lots of tortured dialogue about alternative consciousnesses/universes/fuel supplies/sugar substitutes.
+
+
+Opinions on dialogue
+['tortured', 'about']
+--- Sentence ---
+Make sure all the bad guys bite off their dialogue and sound mean.  
+Opinions on dialogue
+['their', 'and']
+--- Sentence ---
+They were incomplete and contributed little, if anything, to the plot.
+Opinions on plot
+['the']
+--- Sentence ---
+Now with regards to the plot of this film there were enormous holes, which perhaps could be rectified by reading the book.
+Opinions on plot
+['the', 'of']
+--- Sentence ---
+So, despite the beautiful cinematography, this movie is a hopeless muddle.
+Opinions on cinematography
+['the', 'beautiful']
+--- Sentence ---
+The dialogue is difficult to follow especially since most of it is meaningless anyway, and the film never really follows it's premise as much as it should: the rise of Factory.
+Opinions on dialogue
+['The']
+--- Sentence ---
+Aren't we sick of all the crowd pleasing PG-13 shows which are neither sexy or action packed - most of all with hardly a plot?
+Opinions on plot
+['a']
+--- Sentence ---
+Nothing happens in this movie (and I mean nothing) except a bunch of sullen characters exhanging "comic" glances and looking withdrawn and cynical.
+Opinions on characters
+['sullen', 'exhanging']
+--- Sentence ---
+The characters and the situations remind me of the short stories I would write in the sixth grade when I was around 12 years old, where all of the characters have a bunch of dumb, absurd eccentricities that anyone could come up with if they wanted to because you're wanting so badly to be inventive and unique but in hindsight they make you cringe and tear up all those old notebooks full of such irritating, inane nonsense.  
+Opinions on characters
+['The', 'and', 'situations', 'the']
+--- Sentence ---
+The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+
+Opinions on plot
+['same']
+--- Sentence ---
+The similarities of these 2 movies are so prominent that it would actually be a waste of time and money to buy both - same characters, same plot only in a different setting.
+
+Opinions on characters
+['same', ',']
+--- Sentence ---
+The movie wasn't funny (which is sad to say when one of my favorite comedic actresses, Carol Kane, couldn't even elicit a smile out of me), the plot was full of holes, and the writing seemed very rushed and contrived.  
+Opinions on plot
+['the']
+--- Sentence ---
+The special effects are a bit cheesy, you can see the wires pulling the torpedos and you can tell that they used scaled model ships...but if you overlook those items, you get fine acting and a good plot with plenty of
+action
+
+Opinions on plot
+['a', 'good', 'with']
+--- Sentence ---
+It is one of those ones that you keep watching because you think it may get better and it never does... stupid plot - too many holes and stupid ending.
+
+Opinions on plot
+['stupid', 'ending']
+--- Sentence ---
+It's a study in contrasts, and it's done impeccably in the novel, with a plethora of complex characters to richen the journey... but it didn't translate because of Hollywood's froo-froo mentality.
+
+
+Opinions on characters
+['complex']
+--- Sentence ---
+The dialogue is completely unbelievable considering the age of these kids.  
+Opinions on dialogue
+['The']
+--- Sentence ---
+It is NOT, as advertised, closed-captioned, and the characters' speech is too casual and British for me to get.  
+Opinions on characters
+['the', "'"]
+--- Sentence ---
+I mean that all the characters in the movie are complete human garbage, such as make you want to start your own special death camp just to get rid of them.  
+Opinions on characters
+['all', 'the', 'in']
+--- Sentence ---
+Real characters?  
+Opinions on characters
+['Real', '?']
+--- Sentence ---
+As it happens, I've known thousands of real people over the years and not a one bears the slightest resemblance to any of these sad-sack characters.  
+Opinions on characters
+['these', 'sack']
+--- Sentence ---
+What the BLEEP Do We Know!?" mostly for the engaging snippets of dialogue from scientists, theologians, and mystics.
+Opinions on dialogue
+['from']
+--- Sentence ---
+The plot was..well..stupid and the atmosphere of the movie was pretty much non-existent.  
+Opinions on plot
+['The']
+--- Sentence ---
+The rest of this film consists of the ear-bleeding whines and yawn-inducing infighting of the human characters, ill-conceived and extremely unlikable caricatures of a pseudo-cynical and extremely redundant "evil side of human nature" message that would be better left to Jean Renoir (or even Adam Sandler considering the results here).
+Opinions on characters
+['the', 'human', ',']
+--- Sentence ---
+I don't watch zombie movies for the characters, especially characters so vapid and unengaging.
+Opinions on characters
+['the', ',', 'characters', 'especially', 'vapid']
+--- Sentence ---
+If these characters weren't so constipated and bloated I'd give them a chance.
+Opinions on characters
+['these']
+--- Sentence ---
+The entire plot is self-serving, shallow, and unrealistic.
+Opinions on plot
+['The', 'entire']
+--- Sentence ---
+I guess it's supposed to depict the horror of repressive religious values, and while I don't condone those, the film lacks clear characters or any motivation.
+Opinions on characters
+['clear', 'or', 'motivation']
+--- Sentence ---
+I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+
+Opinions on plot
+['the', ',']
+--- Sentence ---
+I understood the plot, and enjoyed some of the thoughts raised near the end, but overall was bored silly by stilted, pointless dialogue.
+
+Opinions on dialogue
+['stilted', ',', 'pointless']
+--- Sentence ---
+Having said that, the cinematography was stunning and the music almost made the film worth watching.  
+Opinions on cinematography
+['the']
+--- Sentence ---
+While Baldwin and the rest of the cast did well in fleshing out Burke's characters and have some tangy tough-guy/gal dialogue, they're hampered by two things: 
+
+1.) The film's slo-o-o-ow pacing.
+Opinions on characters
+['Burke']
+--- Sentence ---
+While Baldwin and the rest of the cast did well in fleshing out Burke's characters and have some tangy tough-guy/gal dialogue, they're hampered by two things: 
+
+1.) The film's slo-o-o-ow pacing.
+Opinions on dialogue
+['tangy', 'guy', 'gal', ',']
+--- Sentence ---
+A plot that, as rendered in the film (whether it's the fault of the screenwriter or the editor, I can't be sure), never quite follows through on any of its elements.
+Opinions on plot
+['A', 'that', "'s", '.']
+--- Sentence ---
+Despite the sexy promises in the movie's ads, none of the ladies share anything with Baldwin but dialogue and some kisses and/or embraces.
+Opinions on dialogue
+['and', 'kisses']
+--- Sentence ---
+It is easy to get sucked into watching Gantz, because of the unique and inexplicable situation that the main characters, who have all died, find themselves in.
+Opinions on characters
+['the', 'main', ',', 'died', ',']
+--- Sentence ---
+The English voice acting is embarassingly bad, especially the main character, but not as bad as the dialogue, internal and vocalized, that this character has been given to speak. 
+
+
+Opinions on dialogue
+['the', ',', 'internal', 'given']
+--- Sentence ---
+The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+
+Opinions on plot
+['The']
+--- Sentence ---
+The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+
+Opinions on characters
+['the']
+--- Sentence ---
+The screenplay is so lazy it can't even be bothered to connect half the characters to the plot, the photography is bright and glossy, which is at odds with what's supposed to be a dark story, while nothing in the direction adds any atmosphere at all.
+Opinions on plot
+['the', ',']
+--- Sentence ---
+The screenplay is so lazy it can't even be bothered to connect half the characters to the plot, the photography is bright and glossy, which is at odds with what's supposed to be a dark story, while nothing in the direction adds any atmosphere at all.
+Opinions on characters
+['half', 'the', 'to']
+--- Sentence ---
+No thought has gone in to developing themes or structuring the plot because no one here is talented enough to give this movie any depth beyond having D'Errico running around in a variety of tight vests.  
+Opinions on plot
+['the']
+--- Sentence ---
+Surely more can be done with characters like the Candyman than the constant repetition of scenes where he appears to stick his hook through someone's stomach.  
+Opinions on characters
+['like']
+--- Sentence ---
+Since all the characters stay together, it is easy to follow along, so you can turn your brain off, it won't be needed.  
+Opinions on characters
+['all', 'the']
+--- Sentence ---
+The characters are so lame I did'nt even care about who was threating his life.  
+Opinions on characters
+['The']
+--- Sentence ---
+In short, the acting and the plot are average (nothing great), while the dialogues are way below average.  
+Opinions on plot
+['the']
+--- Sentence ---
+The characters are, overall, bland and just plain uninteresting (e.g. Rick Anderson played by the "fool," Ted Raimi, from the Xena series).
+
+Opinions on characters
+['The']
+--- Sentence ---
+I didn't care who was sending the tapes and I didn't care what would happen with the main characters.  
+Opinions on characters
+['the', 'main']
+--- Sentence ---
+This movie is the kind where you will see a remotely interesting twist in the plot about 3/4's of the way in and you'll think, "wow I wonder where the story will go next".  
+Opinions on plot
+['the', "'s"]
+--- Sentence ---
+"Anatomy of a Murder" oftentimes seems more concerned with exploring the eccentric natures of its characters than in telling a good story.  
+Opinions on characters
+['its']
+--- Sentence ---
+there is a certain new-fangled school of screenwriting that thinks that if you put a bunch of characters on screen and have them make no sense of one another but sound as if theyre being profound, then they ARE.
+Opinions on characters
+['on']
+--- Sentence ---
+If you've seen that version, you probably still can't get the final revelation out of your head, but the film had plenty more to offer than that, playing with chronology, subverting the usual cliches of its 'Lady Vanishes' plot (the hero wants to know what happened to his missing lover far more than he wants her to be alive) and throwing in some excellent characterization.
+Opinions on plot
+['its', 'Vanishes', '(', 'wants']
+--- Sentence ---
+I read the book and saw the movie, which other than title and major characters, have little in common.  
+Opinions on characters
+['major', ',']
+--- Sentence ---
+The minor characters, including the wonderful Tracie Thoms as "best friend" Lily, are mostly wasted. 
+
+Opinions on characters
+['The', 'minor', ',', 'including', '.']
+--- Sentence ---
+I have never understood Ackroyd's characters.
+Opinions on characters
+['Ackroyd']
+--- Sentence ---
+The only common thread I found were the names of the characters and the fact that Ella was cursed from birth.
+
+
+Opinions on characters
+['the', 'and']
+--- Sentence ---
+The bantering that occurs between the two is generally amusing; unfortunately thanks to the inept direction and camera work, the focus for these scenes seems to be more on Roberts (strutting about in short leather skirts and noisy, five-inched-heeled mules) than on the sometimes-interesting personality dynamics that seemingly exists between the two characters.  
+Opinions on characters
+['the', 'two']
+--- Sentence ---
+The plot, the "humor," the dialogues, and the music are way beyond "below average."
+
+Opinions on plot
+['The', ',', 'humor']
+--- Sentence ---
+The big problem with RH is that neither Ford or Benning are sympathetic characters.
+Opinions on characters
+['sympathetic']
+--- Sentence ---
+I found the plot to be a little farfetched
+
+Opinions on plot
+['the']
+--- Sentence ---
+By the end of movie you don't like any of the characters and you don't care what happens to them, even the ones that started out sympathetic and likable.  
+Opinions on characters
+['the']
+--- Sentence ---
+The producers of this film are out of their mind if they expect any viewer who's not screwed-up in the head to feel sorry for the two stupid main characters just because their sick, incestuous, and adulterous lifestyle is incompatible with the world they live in.
+Opinions on characters
+['the', 'two', 'stupid', 'main']
+--- Sentence ---
+A kid chasing a ticket through a train,
+ 
+A kid chasing a ticket over the roof of a train,
+ 
+A ticket making its way through the forest -- Rube Goldberg style -- back to the train,
+
+(Forty minutes into this movie and one girl's train ticket is the star of the show!)
+
+OK, the ticket sub plot is resolved and we have...
+
+A train sliding out of control on the ice,
+
+A train trying to outrun cracks on the ice,
+
+A train going full throttle out of control and racing up and down mountain valleys like a roller coaster (fans of the "coaster tycoon" series of computer games will feel right at home) until finally it arrives at the North Pole. 
+
+
+Opinions on plot
+['the', 'sub']
+--- Sentence ---
+Two thirds of this movie is devoted to stuff that doesn't advance the story or develop the characters one bit.  
+Opinions on characters
+['the', 'bit']
+--- Sentence ---
+None of the characters are believable in the roles they are portraying.  
+Opinions on characters
+['the']
+--- Sentence ---
+Every thing in this movie seems forced and there is no chemistry between the characters
+
+Opinions on characters
+['the', '\n']
+--- Sentence ---
+Too implausible, too many overdrawn secondary characters.  
+Opinions on characters
+['many', 'overdrawn', 'secondary']
+--- Sentence ---
+The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+
+Opinions on plot
+['The']
+--- Sentence ---
+The plot is stupid, the characters are dull and insipid, and the whole movie leaves you asking, as the credits run, "So What?" Don't waste your money!
+
+Opinions on characters
+['the']
+--- Sentence ---
+The quiet scenes with Kong were welcome additions, they actually made him into a character...something that can't be said for any of the human characters.
+
+
+Opinions on characters
+['the', 'human']
+--- Sentence ---
+Whoever mastered this great film RUINED it by FORGETTING or REFUSING to provide English subtitles for the Japanese and Italian characters.  
+Opinions on characters
+['the', 'Japanese']
+--- Sentence ---
+The sight gags are plentiful, the physical comedy abundant and often cruel, and the dialogue absurdly unrealistic.  
+Opinions on dialogue
+['the']
+--- Sentence ---
+And that's surprising, given that the movie is helmed by "Romeo Must Die" director Andrzej Bartkowiak, who also did the cinematography for Speed, Lethal Weapon 4, and Devil's Advocate. 
+
+
+Opinions on cinematography
+['the', 'for', 'Weapon']
+--- Sentence ---
+The plot, what there is of it, deals with police corruption, and features a major twist near the end that takes the punch out of the story and doesn't make any sense---but by that time you've stopped caring.
+Opinions on plot
+['The', ',']
+--- Sentence ---
+The singing is not bad (this cast has better technical control of their voices compared to the cast in Les Miz) but the choreography is trite and unimaginative, and the acting so juvenille that you'd think the characters are retarded.  
+Opinions on characters
+['the']
+--- Sentence ---
+The characters are not engaging and the story is just a generic murder mystery with a monster thrown in.  
+Opinions on characters
+['The']
+--- Sentence ---
+The basic plot of the movie is that life sucks (yeah thats it).
+Opinions on plot
+['The', 'basic', 'of']
+--- Sentence ---
+The plot is lame and I am sorry I spent the money on it.  
+Opinions on plot
+['The']
+--- Sentence ---
+Occasionally we get a shot of some of the other characters.  
+
+Because of the lack of dynamics, the film is not effective, either as drama or as eroticism.  
+Opinions on characters
+['the', 'other']
+--- Sentence ---
+"Legal Eagles" is supposed to be a comedy. We're supposed to find the characters played by Robert Redford and Debra Winger to be amusing, their acrimonious relationship to be hilarious, and the way that they end up being partners despite all of the gibes to be romantically satisfying.
+
+
+Opinions on characters
+['the']
+--- Sentence ---
+The plot involves a fire 20 years ago, when Daryl Hannah was eight, a fire that killed her artist father and purportedly destroyed a large number of his paintings.
+Opinions on plot
+['The']
+--- Sentence ---
+Unfortunately, the plot involves many elements that simply don't make sense.
+Opinions on plot
+['the']
+--- Sentence ---
+I won't go into detail, but Roger Ebert does a good job of listing four different major things that make the plot completely unbelievable.
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+This movie could have been a fairly good romantic thriller if they had fixed the plot and not tried to be a comedy.
+Opinions on plot
+['the', 'and']
+--- Sentence ---
+But the dumb plot and the unfunny attempts at comedy make it a complete waste of time.
+
+
+Opinions on plot
+['the', 'dumb', 'and', 'attempts']
+--- Sentence ---
+If the plot doesn't seem stupid enough, it needs Ghosts to power it.
+Opinions on plot
+['the']
+--- Sentence ---
+In some movies, it works where all the characters move at a slow pace - "Nobody's Fool," for example.  
+Opinions on characters
+['all', 'the']
+--- Sentence ---
+Throughout the movie, I kept wondering if this would have been a much more enjoyable movie where we got to see what was actually going on inside the minds of the characters . . .
+Opinions on characters
+['the']
+--- Sentence ---
+Long, tedious action adventure with repetitive dialog, bad plot holes, and generally boring characters is how to describe this little foray into following up the characters from Bad Boys.  
+
+
+Opinions on characters
+['boring', 'the', 'from']
+--- Sentence ---
+Eraser has a few scenes that will keep your attention, but overall the movie displayed poor acting, stunts that are impossible and a mediocre plot.
+Opinions on plot
+['a', 'mediocre']
+--- Sentence ---
+It's amazing how so much money and effort go into special effects and expensive sets and the script itself is hollow with lousy characters.
+Opinions on characters
+['lousy']
+--- Sentence ---
+If you've seen that version, you probably still can't get the final revelation out of your head, but the film had plenty more to offer than that, playing with chronology, subverting the usual cliches of its 'Lady Vanishes' plot (the hero wants to know what happened to his missing lover far more than he wants her to be alive) and throwing in some excellent characterization.
+Opinions on plot
+['its', 'Vanishes', '(', 'wants']
+--- Sentence ---
+The plot revolves around two "losers in love" who are unappealing both in looks and personality.  
+Opinions on plot
+['The']
+--- Sentence ---
+This movie tries to deal with alot and does alot of it well BUT as a viewer, I am hugely distracted by Mamet's dialogue.
+Opinions on dialogue
+['Mamet']
+--- Sentence ---
+After listening to the characters for ninety minutes, I finally came to the conclusion that many of the characters sounded alike and the one connection point was Mamet.
+Opinions on characters
+['the', 'for', 'the']
+--- Sentence ---
+Very predictable plot from beginning to end.  
+Opinions on plot
+['Very', 'predictable', 'from', '.']
+--- Sentence ---
+There just wasn't time enough, I guess, to develop the characters, or even to include half of them.
+Opinions on characters
+['the', ',', 'or']
+--- Sentence ---
+In fact, I'm saying they could have made it work if they'd toned down the comedy and given the characters a bit of respect (Justice League style.)
+
+Opinions on characters
+['the', 'bit']
+--- Sentence ---
+Anachronism, bad dialogue, bad plot and plain old bad acting plague this "sequel".  
+Opinions on plot
+['bad', 'and', 'plague', 'sequel']
+--- Sentence ---
+Anachronism, bad dialogue, bad plot and plain old bad acting plague this "sequel".  
+Opinions on dialogue
+['bad', ',', 'plot']
+--- Sentence ---
+And it doesn't only center around the main characters but has a great ensemble cast of very interesting people!
+
+Opinions on characters
+['the', 'main', 'but']
+--- Sentence ---
+I was very bored with this movie and found the plot to be very insulting.
+Opinions on plot
+['the']
+--- Sentence ---
+The plot and dialogue dehumanizies and insults many.
+
+Opinions on plot
+['and', 'dialogue']
+--- Sentence ---
+serious issues are reduced to a series of ham-fisted archetypes straight out of central casting. and they're ALL here: the homey black grandparents, the nation of islam convert, the socially conscious mother whose son is starting to go down caine's road... all characters that might fare better in a different film that treats these issues with more subtlety and depth.
+
+
+Opinions on characters
+['all', 'fare']
+--- Sentence ---
+it clearly took a lot of inspiration from menace 2 society, boyz n tha hood, etc., but its characters actually feel tormented, instead of just having lots of scenes written FOR them to show their torment. rather than just running through a laundry list of problems, one-by-one, scene-by-scene
+Opinions on characters
+['its']
+--- Sentence ---
+Buy somthing that has a good plot.
+Opinions on plot
+['a', 'good']
+--- Sentence ---
+It is mainly a mellow-drama surrounding the lives of the characters.  
+Opinions on characters
+['the']
+--- Sentence ---
+.  
+
+"The Mummy Returns" has a lot going for it: A great cast, locations, costumes, cinematography, F/X, etc.
+Opinions on cinematography
+[',', 'F']
+--- Sentence ---
+The Mummy Returns" abandons the characters, and the plot is utilized simply as a flimsy clothesline for action and F/X sequences.
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+The Mummy Returns" abandons the characters, and the plot is utilized simply as a flimsy clothesline for action and F/X sequences.
+
+
+Opinions on characters
+['the', ',', 'and', 'plot']
+--- Sentence ---
+You end up caring less about the characters, andwondering more how much more trouble will they get themselves in.
+Opinions on characters
+['the', ',', 'andwondering']
+--- Sentence ---
+One of the worst movies i've ever seen, no real plot and acting is as bad as it can get.
+Opinions on plot
+['no', 'real', 'and', 'acting']
+--- Sentence ---
+As with most of Burton's other big, expensive failures, he knows how to CREATE a convincing world, but has no clue how to POPULATE it with characters and situations we identify with and/or could care less about.  
+Opinions on characters
+['and', 'situations', 'identify']
+--- Sentence ---
+If you're reviewing the DVD, speak to the qualities (or lack thereof) of the audio and video; mention your opinions of the plot, acting, etc.
+Opinions on plot
+['the', ',']
+--- Sentence ---
+The plot moves along nicely and creates some definite tension and suspense.
+Opinions on plot
+['The']
+--- Sentence ---
+You can see the few twists and turns in the plot coming miles before they happen.
+Opinions on plot
+['the']
+--- Sentence ---
+There's obviously supposed to be chemistry between these two characters, but it's never realized.
+Opinions on characters
+['these', 'two']
+--- Sentence ---
+However, the awful cinematography, horrific editing, and terrible production value of this film make impossible for me to fathom why people didn't burn down the theaters when they realized this film wasn't getting any better
+Opinions on cinematography
+['the', 'awful', ',', 'horrific']
+--- Sentence ---
+so I'm supposed to believe that the horrible dialogue, bad acting, and ridiculous plotting is on purpose just because Mamet is a respected guy? how about we call a dog a dog and just move on
+
+Opinions on dialogue
+['the', 'horrible', ',', 'acting']
+--- Sentence ---
+Too bad the members of this band are minor characters.  
+Opinions on characters
+['minor']
+--- Sentence ---
+Can you really carry 2 hours with this single plot?
+Opinions on plot
+['this', 'single']
+--- Sentence ---
+Even if they just ran around the set yelling "1,2,3, Potato Salad, March!" The dialogue would have been 1000 times better.
+Opinions on dialogue
+['The']
+--- Sentence ---
+If you like mafia movies and don't care about the history of its real-life characters than by all means watch it.  
+Opinions on characters
+['its', 'life']
+--- Sentence ---
+The cast is good, but the plot stinks!
+Opinions on plot
+['the']
+--- Sentence ---
+Along the way boat is hijacked by the penguins (who are the cutest characters besides the two chimps) and get stranded in Madagascar, meeting a dumb bunch of lemurs.
+Opinions on characters
+['the', 'cutest', 'besides', ')']
+--- Sentence ---
+Has pleasant characters; but not deep.
+Opinions on characters
+['pleasant']
+--- Sentence ---
+The plot turns out to be terrible and the idea of where the wolves came from and where they are going is underdeveloped and disappointing.  
+Opinions on plot
+['The']
+--- Sentence ---
+Its just bad acting with stupid and mean characters.
+Opinions on characters
+['stupid']
+--- Sentence ---
+I found the characters in this movie annoying, even more annoying than that suv commercial where that guy walks out of his house and parachutes off the cliff.
+Opinions on characters
+['the', 'in', 'annoying', 'annoying']
+--- Sentence ---
+What looks like a good movie to watch quickly turns into disappointment. Whilst you expect some plot to come together (at least on first viewing)
+Opinions on plot
+['some']
+--- Sentence ---
+The plot is complicated and the noise in the background adds to the disorientation which is done on purpose.
+
+
+Opinions on plot
+['The']
+--- Sentence ---
+My real gripe about the movie was the dialogue and the acting.  
+Opinions on dialogue
+['the', 'and', 'acting']
+--- Sentence ---
+They were not believable and the dialogue just sounded like something that came out of book for young readers.  
+Opinions on dialogue
+['the']
+--- Sentence ---
+Rivka becomes her cousin and other characters are neglected completely.  
+Opinions on characters
+['other']
+--- Sentence ---
+I didn't even mind the obvious holes in the plot, such as...why do these characters not have credit cards or cell phones?
+Opinions on plot
+['the', ',', 'as']
+--- Sentence ---
+I didn't even mind the obvious holes in the plot, such as...why do these characters not have credit cards or cell phones?
+Opinions on characters
+['these']
+--- Sentence ---
+I don't think I need to count all the ways for you, but some of the bigger issues that I had with this feature was the complete unknown of the characters.  
+Opinions on characters
+['the']
+--- Sentence ---
+Besides the sex scenes, language, pill popping and other thematic elements that are left out, important details to the plot are also missing.
+Opinions on plot
+['the']
+--- Sentence ---
+The main plot is very thin (a CIA agent is ordered to kill an oil prince, gets caught and then warns the prince (why?)) and therefore some elements were added to make the movie more interesting.
+Opinions on plot
+['The', 'main']
+--- Sentence ---
+It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+     
+Opinions on plot
+[',']
+--- Sentence ---
+It's the way the story is told - its ham-fisted dialogue and plot, its forced obscenity at every turn - that reveals its teen sensibilities.
+     
+Opinions on dialogue
+['fisted', 'and', 'plot']
+--- Sentence ---
+there is a certain new-fangled school of screenwriting that thinks that if you put a bunch of characters on screen and have them make no sense of one another but sound as if theyre being profound, then they ARE.
+Opinions on characters
+['on']
+--- Sentence ---
+I'll cut to the meta-chase since plot and story have already been well outlined in previous reviews...
+
+
+Opinions on plot
+['and', 'story']
+--- Sentence ---
+But the plot was lame & slow.
+Opinions on plot
+['the']
+--- Sentence ---
+But I just had to shut it off - there was nothing advancing the plot or the characters, so I just didn't care how it ended.
+
+1 star for the plot, 1.5 stars for the screenplay, 2 stars for the singing
+
+Opinions on plot
+['the', 'or', 'characters', 'the', ',', 'stars']
+--- Sentence ---
+But I just had to shut it off - there was nothing advancing the plot or the characters, so I just didn't care how it ended.
+
+1 star for the plot, 1.5 stars for the screenplay, 2 stars for the singing
+
+Opinions on characters
+['the']
+--- Sentence ---
+The plot was butchered, the characters twisted, the story ruined, a pure agony.
+ 
+
+Opinions on plot
+['The']
+--- Sentence ---
+The plot was butchered, the characters twisted, the story ruined, a pure agony.
+ 
+
+Opinions on characters
+['the']
+--- Sentence ---
+The plot is rather unbelievable, naming the fact that all three main characters are leaders in their field.... successful author, high-ranking network producer, top-rate doctor.
+Opinions on plot
+['The']
+--- Sentence ---
+The plot is rather unbelievable, naming the fact that all three main characters are leaders in their field.... successful author, high-ranking network producer, top-rate doctor.
+Opinions on characters
+['all', 'three', 'main']
+--- Sentence ---
+After or before key scenes, the camera cuts to a monologue from one of the main characters.
+Opinions on characters
+['the', 'main']
+--- Sentence ---
+To its credit, the actors did whole-heartedly portray gay characters and gay love scenes.
+Opinions on characters
+['gay', 'and', 'scenes']
+--- Sentence ---
+At the time, gay characters were never portrayed in a positive light from the media, and it was a great risk to do so here.
+Opinions on characters
+['gay']
+--- Sentence ---
+This series might be considered a classic if watched by a 12-year-old, but adults will see though the indistinct plot and characters.
+Opinions on plot
+['the', 'indistinct', 'and', 'characters']
+--- Sentence ---
+Most of the plot's famous "unpleasantness" is just tacked on to the main story, and is of no significance.
+
+
+Opinions on plot
+['the', "'s"]
+--- Sentence ---
+Apart from putting several of the characters though lots of physical abuses, nothing much gets accomplished thought the series.
+Opinions on characters
+['the']
+--- Sentence ---
+All the characters suffer from lack of depth and motivation.
+Opinions on characters
+['All', 'the']
+--- Sentence ---
+Certainly not the weird Irish accents the lead characters adopted.
+Opinions on characters
+['the', 'lead']
+--- Sentence ---
+The last half of the film, 'dreamboat' takes the turn as lead character, and it's his story we're following, whereas his female roommate had the first half of the film, and basically it's her introduction to the audience of all the characters.
+Opinions on characters
+['all', 'the']
+--- Sentence ---
+Turns out 'dreamboat' and the young woman victim have a history together; which means issues they have to work out, and everyone else (in a way, the entire student body and its faculty and local law enforcement) is sucked into their story and mutual thirst for truth, though the characters don't have the same truth in mind - it's about vengeance; not justice.  
+Opinions on characters
+['the']
+--- Sentence ---
+Finally the main part of the plot begins, with Natalie just as discontented, despite being married to a wealthy and quirky-but-ultimately-nice guy (Alan Rickman, for whose sake I watched this film at all--not worth it), and with her brother seemingly happy with his life, but somehow still willing to be drawn into a sexual relationship with his sister.
+Opinions on plot
+['the']
+--- Sentence ---
+The plot just wanders aimlessly through an only semi-believable situation, scattering out the occasional pebble of human misery with its slogging feet.
+Opinions on plot
+['The']
+--- Sentence ---
+Is it me or them that has totally lost the plot of what movies are supposed to be all about?
+Opinions on plot
+['the', 'of']
+--- Sentence ---
+The plot was adequate.
+
+
+Opinions on plot
+['The']
+--- Sentence ---
+Emily Bronte's characters jump off the page and will continue to haunt you long after you've finished the book. 
+
+
+Opinions on characters
+['Bronte']
+--- Sentence ---
+The characters are representations in name only and fail to capture any of the true spirit behind this amazing book.
+Opinions on characters
+['The']
+--- Sentence ---
+As Heathcliff and Catherine, Fiennes and Binoche seem to have failed to grasp the depth or the passions of the characters and their performances are flat and bland.
+Opinions on characters
+['the', 'and', 'performances']
+--- Sentence ---
+The other characters are likewise lacking in realism, only Janet McTeer fares well, she is fabulous as Ellen Dean. 
+
+
+Opinions on characters
+['The', 'other']
+--- Sentence ---
+I just can't get over how profoundly corny and simple the plot and effects are, it's downright insulting to the human brain.  
+Opinions on plot
+['the', 'and', 'effects']
+--- Sentence ---
+Before I hit this too harshly, this film was intended to be a trifle, the kind of movie that has bright colors and light plot for a hot summer day that sizzles.  
+Opinions on plot
+['light', 'for']
+--- Sentence ---
+Why do the characters have HUGE, unnatural feet and arms (not to mention Lani's breast augmentation)?  
+Opinions on characters
+['the']
+--- Sentence ---
+The plot of the story was ruined by the immorality and language.   
+Opinions on plot
+['The', 'of']
+--- Sentence ---
+It is possible to have something beautiful and clean where when you finish you feel that you have experienced something encouraging and uplifting.   Dying Young and the plot of sickness and someone caring is beautiful.  
+Opinions on plot
+['the', 'of', 'is']
+--- Sentence ---
+Really... as in unwatchable (other than the relatively entertaining animated opening credits.) Painfully unfunny slapstick routines, actors seemingly reading their lines off of cue cards, and no plot to speak of.
+Opinions on plot
+['no', 'speak']
+--- Sentence ---
+This video is boring. Too much talking and too little talking from the muppet characters.
+Opinions on characters
+['the', 'muppet']
+--- Sentence ---
+Might be suited more for an older child but mine is 13 months so there has to be constant colorful characters for her to be interested
+
+Opinions on characters
+['constant', 'colorful', 'be']
+--- Sentence ---
+As the film's characters themselves point out, poverty is only intersting to the rich, whose view of it is distorted.
+Opinions on characters
+['film', 'themselves']
+--- Sentence ---
+I honestly don't even know the plot of this movie, and I'm not kidding.
+Opinions on plot
+['the', 'of']
+--- Sentence ---
+If you want an idea for a good movie, read the back of this DVD case, and follow that plot, as the director sure steered clear of it.
+Opinions on plot
+['that', ',']
+--- Sentence ---
+To date, the two credited writers have yet to muster up a single true hit, and one gets the sense that a more competent writing team would have taken a better direction with the plot and have not wasted the obvious talent that Ms. Lohan does in fact possess.  
+Opinions on plot
+['the', 'and']
+--- Sentence ---
+Sounds like an interesting plot, right?
+Opinions on plot
+['an', 'interesting', ',']
+--- Sentence ---
+The supporting actors give such a bland/typical performance that not even Jamie Lee could have saved the dialogue.
+Opinions on dialogue
+['the']
+--- Sentence ---
+Overall, however, there is not much that I can recommend in `Dead Heat' except some nice touch in showing the characters.
+Opinions on characters
+['the']
+--- Sentence ---
+Feeble direction simply misses several good opportunities to make good use of the jockey's sullen little daughter Sam (Kay Panabaker, her feature debut), who could have been a little surprise (or gem) in this unconvincing plot.
+
+
+Opinions on plot
+['this', 'unconvincing']
+--- Sentence ---
+The plot line was nonexistent, and the characters were completely unlikeable.
+Opinions on characters
+['the']
+--- Sentence ---
+i started liking this movie, i thought the pinball metaphor and wild characters and lifes a cartoon shiz could have worked out, if it werent for the fact that bakshi is thinly disguising himself and his own frustration as being an unoriginal "underground" cartoonist who caught on to the scene too late...if you like the depressing, gritty, wild, fastpaced style of this movie, check out the original master ROBERT CRUMB, toward whom bakshi is obviously seething with jealousy and riding anxiously on the coattails of...this is crap in noncomformity, and dont say i "didnt get it", i just think hes being hugely self-indulgent and this whole thing is an homage gone awry, lacking the wit, psychedelia, and pornographic brillinace that crumb could create so effortlessly.
+
+Opinions on characters
+['wild', 'and']
+--- Sentence ---
+Amatuerish in dialogue, acting, plot direction etc etc....sure it's bubblegum for late at night but it's really breathtakingly awful
+
+Opinions on dialogue
+[',']
+--- Sentence ---
+As if the plot matters (it doesn't), the movie is about a woman and her sister who use hubbie's computer to access chat rooms, etc, and witness online killings, and of course, see the killer in a sort of "Eyes of Laura Mars" style.
+
+
+Opinions on plot
+['the']
+--- Sentence ---
+2047 however, was the first asian movie that I failed to finish becaase of the sheer BOREDOM of the plot.
+Opinions on plot
+['the']
+--- Sentence ---
+Now if only a bit more attention had been paid to the horror plot, and we might have something here
+
+Opinions on plot
+['the', 'horror']
+--- Sentence ---
+The dialogue doesn't fair any better, it's also dull and uninspired.
+Opinions on dialogue
+['The']
+--- Sentence ---
+There was good cinematography and music, and Kevin Bacon is always appealing, but that's the best I can say.  
+Opinions on cinematography
+['good', 'and', 'music']
+--- Sentence ---
+The only blue here is the shade you will turn by the boredom with the weak plot.
+
+
+Opinions on plot
+['the', 'weak']
+--- Sentence ---
+The plot is stupid, and the dialogue is so bad it's over the top.  
+Opinions on plot
+['The']
+--- Sentence ---
+The plot is stupid, and the dialogue is so bad it's over the top.  
+Opinions on dialogue
+['the']
+--- Sentence ---
+Let the audience in on the torment and conflict of Raskolnikov (the main character) and interplay of the characters that is so powerful in the book.
+Opinions on characters
+['the', 'is']
+--- Sentence ---
+There's no joke too hackneyed, no visual too disgusting, and no dialogue too stupid to throw in the mix.  
+
+
+Opinions on dialogue
+['no', 'stupid']
+--- Sentence ---
+The plot was bad and it did not have that many pokemon as I thought.
+Opinions on plot
+['The']
+--- Sentence ---
+Every minute characters in this series try to remind you of some plot point as if you're a short-attention span coach potatoe.  
+Opinions on characters
+['Every', 'minute', 'in']
+--- Sentence ---
+She thinks everything and everyone is really really stupid, she does nothing but argue with everyone all the time, it's all her parents fault of course because she's perfect, her dialogue consists of nothing but smart-aleck remarks that she says in that "oh so cute" way that fans of Lizzie McGuire may find clever...good grief.  
+Opinions on dialogue
+['her']
+--- Sentence ---
+Great ideas here but then the film basically spends too much time zigzagging around to all the different characters and locales.  
+Opinions on characters
+['all', 'the', 'different', 'and', 'locales']
+--- Sentence ---
+Most of the characters in this movie are great, the scenes, the costumes and everything but I didn't like the outcome of the story .. I felt Daniel changed somewhat after discovering his past and I couldn't understand his abandonment of his former love in order to persue a life with that new girl.
+Opinions on characters
+['the', 'in']
+--- Sentence ---
+...has a pretty thin plot.
+Opinions on plot
+['a', 'thin']
+--- Sentence ---
+I found the movie very interesting in terms of what is going on with the characters - a lot of films are like this, if you look a little deeper, there's more there than the surface story.  
+
+
+
+Opinions on characters
+['the', '-', 'lot']
+--- Sentence ---
+Also he is the voice of at least four of his characters, he is equally bad in each.  
+Opinions on characters
+['his']
+--- Sentence ---
+The two dimensional nice old brother and sister are treated horribly, for no good reason with no motivation or payoff, the songs are unlistnable and the dialogue is hard to understand, this is not always a bad thing.  
+Opinions on dialogue
+['the']
+--- Sentence ---
+On the whole I am unimpressed with the Barbie series which is highly unoriginal with characters that seem as plastic as the dolls themselves.
+
+
+Opinions on characters
+['seem']
+--- Sentence ---
+The plot of "Hard Target" has been summarized in previous reviews, so I'll limit myself to discussing my favorite part.
+"
+Opinions on plot
+['The', 'of']
+--- Sentence ---
+The actors outweighed the characters and looked like they were reading the script.
+Opinions on characters
+['the', 'and']
+--- Sentence ---
+Well, nice cinematography as set-designer work: nicely interiors and well dressed actors.
+Opinions on cinematography
+['Well', ',', 'nice', 'as', ':', 'interiors', '.']
+--- Sentence ---
+The characters didn't engage my sympathy.  
+Opinions on characters
+['The']
+--- Sentence ---
+Scenes like long car drives from the marriage bed to a first infidelity didn't build any dramatic tension or advance a plot or provide any interesting insight into the characters themselves.  
+Opinions on plot
+['a']
+--- Sentence ---
+Scenes like long car drives from the marriage bed to a first infidelity didn't build any dramatic tension or advance a plot or provide any interesting insight into the characters themselves.  
+Opinions on characters
+['the', 'themselves']
+--- Sentence ---
+The only really good thing in there is Leo McKern, who shines forth like a beacon in a fog of wooden acting and stilted dialogue.  
+Opinions on dialogue
+['stilted']
+--- Sentence ---
+It seems to be riding on it's laurels, so to speak, and it's almost as if we are supposed to find the characters acting differently funny.
+Opinions on characters
+['the', 'acting']
+--- Sentence ---
+You don't go to these movies to expect well-written dialogue, character depth or anything, you come for the kills and to tell you the truth, they're slightly disappointing.
+Opinions on dialogue
+['written', ',', 'depth', ',']
+--- Sentence ---
+In fact, the trial doesn't even have a connection to the central plot aside from showing that Sam and Archie are friends and partners.
+Opinions on plot
+['the', 'central']
+--- Sentence ---
+The plot and the acting are surprisingly (!) average, while the humor and the dialogues are below average.  
+
+Opinions on plot
+['The', 'and', 'acting']
+--- Sentence ---
+But the characters are not sympathetic, fun or interesting.  
+Opinions on characters
+['the']
+--- Sentence ---
+almost all of the screenplays he wrote, the movies he directed, the characters he played were all like this.
+Opinions on characters
+['the', 'played']
+--- Sentence ---
+However if you like sex, violence, blood, and debauchery, could care less the fact that they have nothing to do with the absent plot, you could find this film interesting.
+
+Opinions on plot
+['the', 'absent']
+--- Sentence ---
+This film is horrible in nearly every respect, but this is the film's fatal flaw: A "character study" is no good when the characters act in a manner which is counter intuitive and against the grain of human nature.  
+
+
+Opinions on characters
+['the']
+--- Sentence ---
+I love TNG, DS9, and I even quite like a few of the characters in Enterprise.
+Opinions on characters
+['the', 'in']
+--- Sentence ---
+But shes not the only one, this has got to be the only Star Trek series in which no matter how hard I tried I could never develop any attachment to the characters.
+Opinions on characters
+['the']
+--- Sentence ---
+Years later I finally came back and decided to give the final season a try in the hope that the characters might have developed over the years.
+Opinions on characters
+['the']
+--- Sentence ---
+The plot was seemed to aimed at kids under 12.
+Opinions on plot
+['The']
+--- Sentence ---
+Come on at least Pokemon has more of a plot.
+ 
+Opinions on plot
+['a']
+--- Sentence ---
+Trying to do 80's style cinematography to add artistry and color just made this movie suck more.
+Opinions on cinematography
+['80', 'style']
+--- Sentence ---
+Flat lighting, cheap sets and costumes, dull dialog, wooden acting, and a goofy plot; even pervasive silicone enhancement can not save this movie.  
+Opinions on plot
+['a', 'goofy']
+--- Sentence ---
+The plot if poorly contrived, the production value is low, the acting for the most part is awful, and it's basically just a way to stitch together a series of music videos which at his age, my son has no interest in.
+Opinions on plot
+['The']
+--- Sentence ---
+The unwitty dialogue tries to be clever all throughout the movie and is just sooo boring.  
+Opinions on dialogue
+['The', 'unwitty']
+--- Sentence ---
+The plot is so far beyond lame as to be ridiculous.  
+Opinions on plot
+['The']
+--- Sentence ---
+Even the cinematography is utterly unimpressive.   
+Opinions on cinematography
+['Even', 'the']
+--- Sentence ---
+There is no humor, no likable characters, not even a decent quote or one liner.   by the time it ambles toward its pathetic excuse for a conclusion
+Opinions on characters
+['no', 'likable', ',', 'quote']
+--- Sentence ---
+I am just confused about the whole thing really, the plot the characters the ending.....I see other reviews on here about how "creepy" it was, and I just didn't feel that.
+Opinions on plot
+['the', 'characters']
+--- Sentence ---
+I am just confused about the whole thing really, the plot the characters the ending.....I see other reviews on here about how "creepy" it was, and I just didn't feel that.
+Opinions on characters
+['the', 'ending']
+--- Sentence ---
+I hated those movies, but at least, in those movies the emotions the characters exhibited had some kind of rationale to it.
+Opinions on characters
+['the']
+--- Sentence ---
+Here the emotions are totally disconnected from reality, have nothing to do with what is going on in the screen, and seem only to be there to move the plot, if there is one, along.
+
+Opinions on plot
+['the', ',']
+--- Sentence ---
+Jury Duty simply was just plain awful with it's weak, boring plot and unfunny humor!
+Opinions on plot
+['was', ',', 'boring', 'and', 'humor', '!']
+--- Sentence ---
+There are two new supporting characters this time, Lois and, erm...Jason.
+Opinions on characters
+['two', 'new', 'supporting']
+--- Sentence ---
+There are endless shots of open seas or country, followed by about 30 seconds of dialogue, followed by EVEN MORE endless footage of different locales.  
+Opinions on dialogue
+[',']
+--- Sentence ---
+There is no real drama or comedy going on to drive the film, and the pacing is absolutely DREADFUL... I found myself hitting the "fast-foward" button on my remote on more than a few occasions, simply because I knew I wasn't missing any dialogue and the establishing shots would go on for 1 or 2 minutes STRAIGHT!
+
+
+Opinions on dialogue
+['any', 'and']
+--- Sentence ---
+It really doesn't take a genius to figure out this plot.  
+Opinions on plot
+['this']
+--- Sentence ---
+I mean as soon as the main actress enterred the cabin and heard her husband in the next room I turned to my girlfreind and told her the whole film's plot and sure enough I was right on the money, only I thought it would of ended 20 minutes earlier but oh no, it had to keep going and going...just end allready, I get it!
+
+Opinions on plot
+['film', 'and']
+--- Sentence ---
+The plot of the movie is interesting and keeps you wondering what is gonna happen next.
+Opinions on plot
+['The', 'of']
+--- Sentence ---
+Its a gem, love the storyline and costumes.,so authentic looking and of the period,even the dialogue.
+Opinions on dialogue
+['even', 'the']
+--- Sentence ---
+The characters of Jared and Sam were pretty believable - poor, honest, and happy folks (most of us would love to really be this happy - let's face it!)
+Opinions on characters
+['The', 'of']
+--- Sentence ---
+The introduction of Bryce (played by Scott Caan) really created an interesting balance of characters and how each reacted to the many dangers, twists, etc.  
+
+
+Opinions on characters
+['and']
+--- Sentence ---
+She is a great alternative to Barney and all of the other commercial characters, who I don't care much for.  
+Opinions on characters
+['the', 'other', 'commercial', ',', 'care']
+--- Sentence ---
+The story is simple, but in the hands of the writers Wendy Hammond and Bob Gosse and with Gosse's fine direction, the entire cast gives us an ensemble of disparate characters in whom we can all believe.  
+Opinions on characters
+['disparate', 'believe']
+--- Sentence ---
+The voices, the animation, the story, the characters and the music all blend so seamlessly that it is a joy to watch Samurai Champloo.
+
+
+Opinions on characters
+['the', 'and', 'music', 'blend', 'seamlessly']
+--- Sentence ---
+The action is off the wall with the two main characters treating us to two styles of fighting that are the very antithesis to each other.
+Opinions on characters
+['the', 'two', 'main', 'treating']
+--- Sentence ---
+The dialogue was sharp and you might have to watch twice to get all the subtle quips.
+Opinions on dialogue
+['The']
+--- Sentence ---
+Who Wasn't There," the phrase "decisive action" is an oxymoron; everything Crane and the other characters do is governed solely by chance.
+Opinions on characters
+['the', 'other']
+--- Sentence ---
+Thornton--in a role that is nearly wordless except for the voiceover narration tying the plot together--burns a hole in the celluloid with his intense, hangdog gravity.
+Opinions on plot
+['the']

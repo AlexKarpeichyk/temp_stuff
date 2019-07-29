@@ -1,0 +1,5 @@
+def get_main_characters(parsed_novel,num_characters):
+    all_characters = get_entities_in(parsed_novel,"PERSON")
+    return [person for person,count in Counter(all_characters).most_common(num_characters)]
+
+get_main_characters(parsed_novel,10)

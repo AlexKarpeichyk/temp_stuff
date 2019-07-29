@@ -1,0 +1,5 @@
+def get_entities_in(parsed_novel,entity_type):
+    return [ent.text.strip().lower() for ent in parsed_novel.ents 
+            if ent.label_ == entity_type and ent.text.strip()]
+
+get_entities_in(parsed_novel,"PERSON")[:10]
